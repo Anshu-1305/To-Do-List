@@ -25,9 +25,13 @@ A modern, animated, and user-friendly To-Do List web application. Built with HTM
 
 /todo-list
    ├── index.html         # Main HTML file
+   
    ├── styles.css         # Styling with animations
+   
    ├── script.js          # JavaScript logic
+   
    ├── README.md          # Project documentation
+   
 💻 Installation & Usage
 
 Clone the repository:
