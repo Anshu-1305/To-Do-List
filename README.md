@@ -37,7 +37,7 @@ A modern, animated, and user-friendly To-Do List web application. Built with HTM
 
 Clone the repository:
 
-git clone https://github.com/anshu-1305/todo-list.git
+git clone https://github.com/anshu-1305/to-do-list.git
 Open index.html in your browser.
 
 
