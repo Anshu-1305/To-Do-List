@@ -36,18 +36,27 @@ A modern, animated, and user-friendly To-Do List web application. Built with HTM
 💻 Installation & Usage
 
 Clone the repository:
-git clone https://github.com/your-github-username/todo-list.git
+
+git clone https://github.com/anshu-1305/todo-list.git
 Open index.html in your browser.
 
+
 🚀 Deployment
+
 Easily deploy on Vercel:
+
 git push origin main
+
 Then, go to Vercel and deploy your project.
 
 📜 License
+
 This project is free to use and open-source. Feel free to modify it as per your needs.
 
 🙌 Connect With Me
-💼 LinkedIn: Anshu Kumar
+
+💼 LinkedIn: www.linkedin.com/in/anshu-kumar-ak13052005
+
 Instagram id : i_anshu_kumar
+
 🎉 Happy Coding! 🚀
