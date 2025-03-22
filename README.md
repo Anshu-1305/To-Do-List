@@ -1,4 +1,4 @@
-📝 To-Do List App
+**📝 To-Do List App**
 
 A modern, animated, and user-friendly To-Do List web application. Built with HTML, CSS, and JavaScript, featuring local storage support to save your tasks.
 
@@ -24,6 +24,7 @@ A modern, animated, and user-friendly To-Do List web application. Built with HTM
 📂 Folder Structure
 
 /todo-list
+
    ├── index.html         # Main HTML file
    
    ├── styles.css         # Styling with animations
